@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+button{
+    font-size: 1.2rem;
+    padding: 8px;
+    cursor: pointer;
+    margin: 40vh 80vh;
+
+}
