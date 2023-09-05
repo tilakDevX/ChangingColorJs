@@ -1,2 +1,6 @@
 # ChangingColorJs
-This website will show, changing background color when click on button. it's begginers level project.
+
+This is inetesting project, where I have implement the feature changing body's background color.
+
+You can Enjoy!!!
+Demo Link: https://legendary-salmiakki-c07bfd.netlify.app/
